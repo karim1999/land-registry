@@ -1,13 +1,9 @@
 <template>
-    $END$
+  <div>
+    <Nuxt />
+  </div>
 </template>
-
 <script>
-  export default {
-    name: 'auth'
-  }
+export default {}
 </script>
-
-<style scoped>
-
-</style>
+<style></style>
